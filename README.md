@@ -25,6 +25,10 @@
   </picture>
 </div>
 
+## Sobre mim
+
+  Desde criança, sou apaixonado por tecnologia e sempre busquei aprender mais sobre esse universo. Meu sonho é me tornar um profissional qualificado e inovador na área de TI. Para isso, estou sempre em busca de novos conhecimentos e desafios. Comprometido com a excelência, priorizo a qualidade do meu código, a usabilidade do design e a satisfação do usuário, garantindo que cada projeto seja uma fusão perfeita de funcionalidade e estética.
+
 <div  style="display: inline_block;"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -39,9 +43,11 @@
 <div> 
   <a href="https://www.instagram.com/gabrieldos5689" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-santos-9217112a2" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/gabriel-santos-9217112a2" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" target="_blank"></a>
 </div>
 
-## Sobre mim
-
-  Desde criança, sou apaixonado por tecnologia e sempre busquei aprender mais sobre esse universo. Meu sonho é me tornar um profissional qualificado e inovador na área de TI. Para isso, estou sempre em busca de novos conhecimentos e desafios. Comprometido com a excelência, priorizo a qualidade do meu código, a usabilidade do design e a satisfação do usuário, garantindo que cada projeto seja uma fusão perfeita de funcionalidade e estética.
-
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielSantos15/GabrielSantos15/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrielSantos15/GabrielSantos15/output/github-contribution-grid-snake.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GabrielSantos15/GabrielSantos15/output/github-contribution-grid-snake.svg">
+</picture>
