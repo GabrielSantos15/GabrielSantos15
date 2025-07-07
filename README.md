@@ -36,7 +36,9 @@
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div><br>
 
-> “O que você sabe não tem valor; o valor está no que você faz com o que sabe.” — Bruce Lee
+<blockquote translate="no">
+  “O que você sabe não tem valor; o valor está no que você faz com o que sabe.” — Bruce Lee
+</blockquote>
 
 ##
 
