@@ -11,7 +11,7 @@
 <img 
   align="right" 
   src="https://github.com/user-attachments/assets/35b3fb08-dbe9-4480-948d-704257b8e3ff" 
-  width="400px" 
+  width="350px" 
 />
 
 <blockquote translate="no">
