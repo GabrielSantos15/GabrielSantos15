@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23F7DD&center=false&vCenter=true&width=600&lines=Transformando+Ideias+em+C%C3%B3digo;Desenvolvimento+Web+%7C+Full+Stack;An%C3%A1lise+de+Dados+%7C+Business+Intelligence" />
 </a>
 
-Desde criança, sou apaixonado por tecnologia e sempre busquei aprender mais sobre esse universo. Meu sonho é me tornar um profissional qualificado e inovador na área de TI. Para isso, estou sempre em busca de novos conhecimentos e desafios. Comprometido com a excelência, priorizo a qualidade do meu código, a usabilidade do design e a satisfação do usuário.
+Desenvolvedor de Software em início de carreira, focado na construção de aplicações web e no desenvolvimento de soluções com código organizado, boas práticas e atenção à experiência do usuário. Utilizo meus projetos para explorar novas tecnologias, resolver problemas e evoluir continuamente minhas habilidades.
 
 <br/>
 
