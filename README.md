@@ -1,11 +1,12 @@
-# Olá! Eu sou o Gabriel dos Santos 👋
+<h1 align="center"> Gabriel dos Santos</h1>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23F7DD&center=false&vCenter=true&width=600&lines=Transformando+Ideias+em+C%C3%B3digo;Desenvolvimento+Web+%7C+Full+Stack;An%C3%A1lise+de+Dados+%7C+Business+Intelligence" />
-</a>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23F7DD&center=true&vCenter=true&width=600&lines=Transformando+Ideias+em+C%C3%B3digo;Desenvolvimento+Web+%7C+Full+Stack;An%C3%A1lise+de+Dados+%7C+Business+Intelligence" />
+  </a>
+</p>
 
-Desenvolvedor de Software em início de carreira, focado na construção de aplicações web e no desenvolvimento de soluções com código organizado, boas práticas e atenção à experiência do usuário. Utilizo meus projetos para explorar novas tecnologias, resolver problemas e evoluir continuamente minhas habilidades.
-
+Profissional em início de carreira na área de Tecnologia, com experiência em desenvolvimento de software e análise de dados. Atuo na construção de aplicações web e na criação de dashboards e automações que apoiam decisões estratégicas. Tenho domínio em SQL, Power BI, Java e Spring Boot, aplicados em projetos de integração de APIs e monitoramento de indicadores. Reconhecido por iniciativa premiada em governança de TI, destaco-me pelo código organizado, boas práticas e foco na experiência do usuário. Busco evoluir continuamente minhas habilidades e contribuir para soluções confiáveis e de impacto.
 <br/>
 
 <p align="center">
